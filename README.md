@@ -19,4 +19,5 @@ Edit File (5): Appends new lines of content provided by the user to the end of a
 🛠️ Requirements
 
 1.Python 3.x
+<br>
 2.The application uses only standard built-in Python modules (os and built-in file handling), so no external libraries need to be installed.
